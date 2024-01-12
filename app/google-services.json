@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1012433480837",
+    "firebase_url": "https://sprinklessbakersappdb-default-rtdb.firebaseio.com",
+    "project_id": "sprinklessbakersappdb",
+    "storage_bucket": "sprinklessbakersappdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012433480837:android:a3c80451aeac5e88270dec",
+        "android_client_info": {
+          "package_name": "com.example.sprinklessbakersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVMmAcY_CqOqLhhOciHTlMlU3OFdQiajI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
